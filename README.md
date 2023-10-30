@@ -1,2 +1,2 @@
 # basicjslib
-Just a basic Javascript lib with sleep function
+Just a basic Javascript lib with some functions that i use
